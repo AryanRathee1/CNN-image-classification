@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/crawford/deepsat-sat6?select=sat-6-full.mat
